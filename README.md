@@ -67,6 +67,13 @@ CMD ["nginx", "-g", "daemon off;"]
 - Lightweight image based on official nginx base
 - Container health monitored via `docker inspect`
 
+## 📸 Output
+
+Browser output after running the container:
+
+![Docker Web Server Output](./Output.png)
+
+
 ## Learning Outcomes
 
 - Docker containerization fundamentals
