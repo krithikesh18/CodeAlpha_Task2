@@ -1,6 +1,6 @@
 # CodeAlpha_Tasks
 
-# Web Server using Docer — Task 2
+# Web Server using Docker — Task 2
 
 Custom Nginx web server deployed inside a Docker container on AWS EC2.
 
